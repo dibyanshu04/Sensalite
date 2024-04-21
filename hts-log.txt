@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 20 Apr 2024 12:20:02 at https://www.arialengineering.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.arialengineering.com/ -O1 "C:\My Web Sites\arial" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:21:18	Warning: 	Link https://www.arialengineering.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+12:24:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js (from https://www.arialengineering.com/about.html)
+12:24:57	Error: 	"Not Found" (404) at link https://www.arialengineering.com/chrome-extension:// (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+12:24:57	Error: 	"Not Found" (404) at link https://www.arialengineering.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+12:24:57	Error: 	"Not Found" (404) at link https://www.arialengineering.com/^([^:/? (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+12:24:57	Error: 	"Not Found" (404) at link https://www.arialengineering.com/GET (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+12:24:57	Error: 	"Not Found" (404) at link https://www.arialengineering.com/restserver.php (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+12:24:57	Error: 	"Not Found" (404) at link https://www.arialengineering.com/dialog/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+12:24:57	Error: 	"Not Found" (404) at link https://www.arialengineering.com/LiveChatEvent/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+12:24:57	Error: 	"Not Found" (404) at link https://www.arialengineering.com/rsrc.php/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+12:24:57	Error: 	"Not Found" (404) at link https://www.arialengineering.com/css/pictures/services/services-page.jpg (from https://www.arialengineering.com/css/services.css)
+12:24:57	Error: 	"Not Found" (404) at link https://www.arialengineering.com/css/pictures/services/dd-bg.jpg (from https://www.arialengineering.com/css/services.css)
+12:24:57	Error: 	"Not Found" (404) at link https://www.arialengineering.com/css/pictures/services/install-bg.jpg (from https://www.arialengineering.com/css/services.css)
+12:24:57	Error: 	"Not Found" (404) at link https://www.arialengineering.com/css/pictures/services/repair-bg.jpg (from https://www.arialengineering.com/css/services.css)
+12:24:57	Error: 	"Not Found" (404) at link https://www.arialengineering.com/css/pictures/services/amcbg.jpg (from https://www.arialengineering.com/css/services.css)
+12:24:57	Error: 	"Not Found" (404) at link https://www.arialengineering.com/$1/ (from https://www.instagram.com/embed.js)
+12:24:57	Error: 	"Not Found" (404) at link https://www.arialengineering.com/embed/ (from https://www.instagram.com/embed.js)
+12:24:57	Error: 	"Not Found" (404) at link https://www.arialengineering.com/captioned/ (from https://www.instagram.com/embed.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 55 seconds : 372 links scanned, 354 files written (10481267 bytes overall) [8569921 bytes received at 29050 bytes/sec], 2876463 bytes transferred using HTTP compression in 75 files, ratio 23%, 9.0 requests per connection
+(16 errors, 2 warnings, 0 messages)
