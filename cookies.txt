@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.arialengineering.com	TRUE	/	FALSE	1999999999	PHPSESSID	1e839493415e56d25e1fc1bd499fc6b1
-
