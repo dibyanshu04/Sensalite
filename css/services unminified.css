@@ -2,7 +2,7 @@
 Author Name: Anvesh Nandagiri
 Author email: nandagirianvesh143@gmail.com
 Creation Date: 31st August, 2019.
-Description: A default stylesheet for Arial Engineering Services : Developed By ANVESH NANDAGIRI.
+Description: A default stylesheet for Sensalite : Developed By ANVESH NANDAGIRI.
  ====== TABLE OF CONTENT  ======== 
 PRELOADER CSS | TOP HEADER CSS | NAVBAR CSS | PROGRESS BAR CSS | SERVICES PAGES CSS | BRANDS CSS | FOOTER CSS | BACK TO TOP CSS */
 
@@ -42,18 +42,18 @@ ul.service-crumb li a:hover {color:gold;text-decoration:underline;}
 /* ======================= Designing & Drafting Page Begins ====================================== */
 .dd-bg{background: url('pictures/services/dd-bg.html') no-repeat center; background-size:cover;background-color:#fff;width:100%;height:600px;margin:0 auto;padding:0;}
 .dd-caption{top:30%;}
-.dd-caption h1{font-family:Raleway;color:#1a709b;}
+.dd-caption h1{font-family:Raleway;color:#1e3ca4;}
 .dd-head{color:#666;font-size:24px;}
 /* ======== BREADCRUMBS ========== */
-ul.dd-crumb {list-style:none;color:#1a709b;background-color:transparent;}
+ul.dd-crumb {list-style:none;color:#1e3ca4;background-color:transparent;}
 ul.dd-crumb li {font-size: 16px;}
 ul.dd-crumb li+li:before {color: #000; content: "|\00a0";}
 ul.dd-crumb li a{ color: #000;}
-ul.dd-crumb li a:hover {color:#1a709b;text-decoration:underline;}
+ul.dd-crumb li a:hover {color:#1e3ca4;text-decoration:underline;}
 .ddMain{width:100%;height:auto;display:block;}
 .ddHead h4{font-family:Raleway;color:#000;}
 .ddHead p{font-family:Roboto;font-size:15px;color:#666;}
-.fa-dd{font-size:50px;color:#1a709b;}
+.fa-dd{font-size:50px;color:#1e3ca4;}
 .fa-dd:hover{color:rgba(0,125,0,0.8);transition:all .8s ease;-webkit-transition:all .8s ease;-moz-transition:all .8s ease;-ms-transition:all .8s ease;-o-transition:all .8s ease;transform:rotate(20deg);}
 
 /* ========================== Installations Page Begins ================================================= */
