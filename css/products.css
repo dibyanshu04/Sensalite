@@ -7,4 +7,556 @@ Description: A default stylesheet for Sensalite : Developed By ANVESH NANDAGIRI.
 PRELOADER CSS | TOP HEADER CSS | NAVBAR CSS | PROGRESS BAR CSS | PRODUCTS PAGES CSS | BRANDS CSS | FOOTER CSS | BACK TO TOP CSS */
 
 
-.productContainer{width:100%;height:auto}.product-text{font-family:Roboto;font-size:15px;font-weight:400;color:#444}.pList{width:100%;height:100%;display:block;overflow:hidden}.pList img{max-width:100%;max-height:100%;transition:all 1s ease-in-out;-webkit-transition:all 1s ease-in-out;-moz-transition:all 1s ease-in-out;-ms-transition:all 1s ease-in-out;-o-transition:all 1s ease-in-out}.pList img:hover{transform:scale(1.15);-webkit-transform:scale(1.15);-moz-transform:scale(1.15);-ms-transform:scale(1.15);-o-transform:scale(1.15);transition:all 1s ease-in-out;-webkit-transition:all 1s ease-in-out;-moz-transition:all 1s ease-in-out;-ms-transition:all 1s ease-in-out;-o-transition:all 1s ease-in-out}.pName p{font-family:Raleway;font-size:15px;font-weight:500;letter-spacing:1px}.chiller-bg{background:url(../pictures/products/chillers-bg.jpg) no-repeat center;background-size:cover;height:500px}.chiller-caption{top:35%}.chiller-caption h1{font-family:Raleway;color:#444}.chiller-end{color:#1a7099}ul.chiller-crumb{list-style:none;color:#1a7099;background-color:transparent}ul.chiller-crumb li{font-size:16px}ul.chiller-crumb li+li:before{color:#444;content:"|\00a0"}ul.chiller-crumb li a{color:#444}ul.chiller-crumb li a:hover{color:#1a7099;text-decoration:underline}.chiller-text p{font-size:20px;line-height:1.7em;color:#777}.ac-title h3,.wc-title h3{font-family:Raleway;color:#1a7099}.ac-advantages h5,.ac-indoor-title h5,.wc-advantages h5,.wc-indoor-title h5{font-family:Raleway;color:#000}.ac-advantages p,.wc-advantages p{font-family:Raleway;font-size:16px;color:#555}.ac-indoor-units img,.wc-indoor-units img{border:2px solid #999}.vrf-bg{background:url(../pictures/products/vrf-bg.jpg) no-repeat center;background-size:cover;height:500px}.vrf-caption{top:35%}.vrf-caption h1{font-family:Raleway;color:#fcfcfc}.vrf-end{color:#56c6ff}ul.vrf-crumb{list-style:none;color:#56c6ff;background-color:transparent}ul.vrf-crumb li{font-size:16px}ul.vrf-crumb li+li:before{color:#f7f9fb;content:"|\00a0"}ul.vrf-crumb li a{color:#f7f9fb}ul.vrf-crumb li a:hover{color:#56c6ff;text-decoration:underline}.vrf-text p{font-size:20px;line-height:1.7em;color:#777}.vrf-advantages h5,.vrf-indoor h5,.vrf-prdt h5{font-family:Raleway;color:#000;border-left:5px solid #000}.vrf-advantages p{font-size:16px;color:#555;line-height:1.6em}.btn-vrf{font-family:Poppins;font-size:14px;background-color:#56c6ff;color:#fff;border:2px solid transparent;border-radius:25px 25px}.btn-vrf:focus{outline:0!important;box-shadow:none;color:#000}.btn-vrf:hover{border:2px solid #000;background-color:#fff;color:#000}.vrf-unit img{border:2px solid #f1f1f1;border-radius:5%}.vent-bg{background:url(../pictures/products/ahu-bg.jpg) no-repeat center;background-size:cover;height:500px}.vent-caption{top:35%}.vent-caption h1{font-family:Raleway;color:#f7f9fb}.vent-end{color:#56c6ff}ul.vent-crumb{list-style:none;color:#56c6ff;background-color:transparent}ul.vent-crumb li{font-size:16px}ul.vent-crumb li+li:before{color:#f7f9fb;content:"|\00a0"}ul.vent-crumb li a{color:#f7f9fb}ul.vent-crumb li a:hover{color:#56c6ff;text-decoration:underline}.vent-text p{font-size:20px;line-height:1.7em;color:#777}.vent-prdt img{border:1px solid #999}.vent-prdt p{font-family:Poppins;font-size:14px;color:#f7f9fb}.vent-advantages h4{font-family:Poppins;color:#56c6ff}.vent-advantages p{font-size:16px;color:#000;line-height:1.5em}.ahu-bg{background:url(../pictures/products/ahu-bg.jpg) no-repeat center;background-size:cover;height:500px}.ahu-caption{top:35%}.ahu-caption h1{font-family:Raleway;color:#000}.ahu-end{color:#1e3ca4}ul.ahu-crumb{list-style:none;color:#1e3ca4;background-color:transparent}ul.ahu-crumb li{font-size:16px}ul.ahu-crumb li+li:before{color:#000;content:"|\00a0"}ul.ahu-crumb li a{color:#000}ul.ahu-crumb li a:hover{color:#1e3ca4;text-decoration:underline}.ahu-text p{font-size:20px;line-height:1.7em;color:#777}.ahu-advantages h4{font-family:Poppins;color:#1e3ca4}.ahu-advantages p{font-size:17px;color:#000;line-height:1.5em}.diffusers p{font-family:Poppins;font-size:16px;color:#222}@media (min-width:1200px) and (max-width:1440px){.col-1{width:8.33%}.col-2{width:16.66%}.col-3{width:25%}.col-4{width:33.33%}.col-5{width:41.66%}.col-6{width:50%}.col-7{width:58.33%}.col-8{width:66.66%}.col-9{width:75%}.col-10{width:83.33%}.col-11{width:91.66%}.col-12{width:100%}}@media (min-width:992px) and (max-width:1199px){.col-1{width:8.33%}.col-2{width:16.66%}.col-3{width:25%}.col-4{width:33.33%}.col-5{width:41.66%}.col-6{width:50%}.col-7{width:58.33%}.col-8{width:66.66%}.col-9{width:75%}.col-10{width:83.33%}.col-11{width:91.66%}.col-12{width:100%}}@media only screen and (max-width:991px){[class*=col-]{width:100%}.productMain{margin-top:160px}.pName p{font-size:13px;letter-spacing:.3px}.ahu-caption,.chiller-caption,.vent-caption,.vrf-caption{top:48%}.ahu-caption h1,.chiller-caption h1,.vent-caption h1,.vrf-caption h1{font-size:26px}.ahu-advantages p,.ahu-text p,.chiller-text p,.vent-advantages p,.vent-text p,.vrf-text p{font-size:16px}}@media (min-width:768px) and (max-width:991px){[class*=col-]{width:100%}}@media only screen and (max-width:767px){[class*=col-]{width:100%}.productMain{margin-top:130px}.ahu-caption,.chiller-caption,.vent-caption,.vrf-caption{top:40%}.ac-title h3,.wc-title h3{font-size:24px}.ac-advantages p,.wc-advantages p{font-size:14px}}@media (max-width:575px){[class*=col-]{width:100%}.productMain{margin-top:140px}.product-text{font-size:15px;letter-spacing:0}.pName p{font-size:13px;letter-spacing:0}.ahu-bg,.chiller-bg,.vent-bg,.vrf-bg{height:400px}.ahu-caption,.chiller-caption,.vent-caption,.vrf-caption{top:35%}}
+.productContainer {
+    width: 100%;
+    height: auto
+}
+
+.product-text {
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    color: #444
+}
+
+.pList {
+    width: 100%;
+    height: 100%;
+    display: block;
+    overflow: hidden
+}
+
+.pList img {
+    max-width: 100%;
+    max-height: 100%;
+    transition: all 1s ease-in-out;
+    -webkit-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -ms-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out
+}
+
+.pList img:hover {
+    transform: scale(1.15);
+    -webkit-transform: scale(1.15);
+    -moz-transform: scale(1.15);
+    -ms-transform: scale(1.15);
+    -o-transform: scale(1.15);
+    transition: all 1s ease-in-out;
+    -webkit-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -ms-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out
+}
+
+.pName p {
+    font-family: Raleway;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 1px
+}
+
+.chiller-bg {
+    background: url(../pictures/products/chillers-bg.jpg) no-repeat center;
+    background-size: cover;
+    height: 500px
+}
+
+.chiller-caption {
+    top: 35%
+}
+
+.chiller-caption h1 {
+    font-family: Raleway;
+    color: #444
+}
+
+.chiller-end {
+    color: #1a7099
+}
+
+ul.chiller-crumb {
+    list-style: none;
+    color: #1a7099;
+    background-color: transparent
+}
+
+ul.chiller-crumb li {
+    font-size: 16px
+}
+
+ul.chiller-crumb li+li:before {
+    color: #444;
+    content: "|\00a0"
+}
+
+ul.chiller-crumb li a {
+    color: #444
+}
+
+ul.chiller-crumb li a:hover {
+    color: #1a7099;
+    text-decoration: underline
+}
+
+.chiller-text p {
+    font-size: 20px;
+    line-height: 1.7em;
+    color: #777
+}
+
+.ac-title h3,
+.wc-title h3 {
+    font-family: Raleway;
+    color: #1a7099
+}
+
+.ac-advantages h5,
+.ac-indoor-title h5,
+.wc-advantages h5,
+.wc-indoor-title h5 {
+    font-family: Raleway;
+    color: #000
+}
+
+.ac-advantages p,
+.wc-advantages p {
+    font-family: Raleway;
+    font-size: 16px;
+    color: #555
+}
+
+.ac-indoor-units img,
+.wc-indoor-units img {
+    border: 2px solid #999
+}
+
+.vrf-bg {
+    background: url(../pictures/products/vrf-bg.jpg) no-repeat center;
+    background-size: cover;
+    height: 500px
+}
+
+.vrf-caption {
+    top: 35%
+}
+
+.vrf-caption h1 {
+    font-family: Raleway;
+    color: #fcfcfc
+}
+
+.vrf-end {
+    color: #56c6ff
+}
+
+ul.vrf-crumb {
+    list-style: none;
+    color: #56c6ff;
+    background-color: transparent
+}
+
+ul.vrf-crumb li {
+    font-size: 16px
+}
+
+ul.vrf-crumb li+li:before {
+    color: #f7f9fb;
+    content: "|\00a0"
+}
+
+ul.vrf-crumb li a {
+    color: #f7f9fb
+}
+
+ul.vrf-crumb li a:hover {
+    color: #56c6ff;
+    text-decoration: underline
+}
+
+.vrf-text p {
+    font-size: 20px;
+    line-height: 1.7em;
+    color: #777
+}
+
+.vrf-advantages h5,
+.vrf-indoor h5,
+.vrf-prdt h5 {
+    font-family: Raleway;
+    color: #000;
+    border-left: 5px solid #000
+}
+
+.vrf-advantages p {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.6em
+}
+
+.btn-vrf {
+    font-family: Poppins;
+    font-size: 14px;
+    background-color: #56c6ff;
+    color: #fff;
+    border: 2px solid transparent;
+    border-radius: 25px 25px
+}
+
+.btn-vrf:focus {
+    outline: 0 !important;
+    box-shadow: none;
+    color: #000
+}
+
+.btn-vrf:hover {
+    border: 2px solid #000;
+    background-color: #fff;
+    color: #000
+}
+
+.vrf-unit img {
+    border: 2px solid #f1f1f1;
+    border-radius: 5%
+}
+
+.vent-bg {
+    background: url(../pictures/products/ahu-bg.jpg) no-repeat center;
+    background-size: cover;
+    height: 500px
+}
+
+.vent-caption {
+    top: 35%
+}
+
+.vent-caption h1 {
+    font-family: Raleway;
+    color: #f7f9fb
+}
+
+.vent-end {
+    color: #56c6ff
+}
+
+ul.vent-crumb {
+    list-style: none;
+    color: #56c6ff;
+    background-color: transparent
+}
+
+ul.vent-crumb li {
+    font-size: 16px
+}
+
+ul.vent-crumb li+li:before {
+    color: #f7f9fb;
+    content: "|\00a0"
+}
+
+ul.vent-crumb li a {
+    color: #f7f9fb
+}
+
+ul.vent-crumb li a:hover {
+    color: #56c6ff;
+    text-decoration: underline
+}
+
+.vent-text p {
+    font-size: 20px;
+    line-height: 1.7em;
+    color: #777
+}
+
+.vent-prdt img {
+    border: 1px solid #999
+}
+
+.vent-prdt p {
+    font-family: Poppins;
+    font-size: 14px;
+    color: #f7f9fb
+}
+
+.vent-advantages h4 {
+    font-family: Poppins;
+    color: #56c6ff
+}
+
+.vent-advantages p {
+    font-size: 16px;
+    color: #000;
+    line-height: 1.5em
+}
+
+.ahu-bg {
+    background: url(../pictures/products/ahu-bg.jpg) no-repeat center;
+    background-size: cover;
+    height: 500px
+}
+
+.ahu-caption {
+    top: 35%
+}
+
+.ahu-caption h1 {
+    font-family: Raleway;
+    color: #000
+}
+
+.ahu-end {
+    color: #1e3ca4
+}
+
+ul.ahu-crumb {
+    list-style: none;
+    color: #1e3ca4;
+    background-color: transparent
+}
+
+ul.ahu-crumb li {
+    font-size: 16px
+}
+
+ul.ahu-crumb li+li:before {
+    color: #000;
+    content: "|\00a0"
+}
+
+ul.ahu-crumb li a {
+    color: #000
+}
+
+ul.ahu-crumb li a:hover {
+    color: #1e3ca4;
+    text-decoration: underline
+}
+
+.ahu-text p {
+    font-size: 20px;
+    line-height: 1.7em;
+    color: #777
+}
+
+.ahu-advantages h4 {
+    font-family: Poppins;
+    color: #1e3ca4
+}
+
+.ahu-advantages p {
+    font-size: 17px;
+    color: #000;
+    line-height: 1.5em
+}
+
+.diffusers p {
+    font-family: Poppins;
+    font-size: 16px;
+    color: #222
+}
+
+@media (min-width:1200px) and (max-width:1440px) {
+    .col-1 {
+        width: 8.33%
+    }
+
+    .col-2 {
+        width: 16.66%
+    }
+
+    .col-3 {
+        width: 25%
+    }
+
+    .col-4 {
+        width: 33.33%
+    }
+
+    .col-5 {
+        width: 41.66%
+    }
+
+    .col-6 {
+        width: 50%
+    }
+
+    .col-7 {
+        width: 58.33%
+    }
+
+    .col-8 {
+        width: 66.66%
+    }
+
+    .col-9 {
+        width: 75%
+    }
+
+    .col-10 {
+        width: 83.33%
+    }
+
+    .col-11 {
+        width: 91.66%
+    }
+
+    .col-12 {
+        width: 100%
+    }
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+    .col-1 {
+        width: 8.33%
+    }
+
+    .col-2 {
+        width: 16.66%
+    }
+
+    .col-3 {
+        width: 25%
+    }
+
+    .col-4 {
+        width: 33.33%
+    }
+
+    .col-5 {
+        width: 41.66%
+    }
+
+    .col-6 {
+        width: 50%
+    }
+
+    .col-7 {
+        width: 58.33%
+    }
+
+    .col-8 {
+        width: 66.66%
+    }
+
+    .col-9 {
+        width: 75%
+    }
+
+    .col-10 {
+        width: 83.33%
+    }
+
+    .col-11 {
+        width: 91.66%
+    }
+
+    .col-12 {
+        width: 100%
+    }
+}
+
+@media only screen and (max-width:991px) {
+    [class*=col-] {
+        width: 100%
+    }
+
+    .productMain {
+        margin-top: 160px
+    }
+
+    .pName p {
+        font-size: 13px;
+        letter-spacing: .3px
+    }
+
+    .ahu-caption,
+    .chiller-caption,
+    .vent-caption,
+    .vrf-caption {
+        top: 48%
+    }
+
+    .ahu-caption h1,
+    .chiller-caption h1,
+    .vent-caption h1,
+    .vrf-caption h1 {
+        font-size: 26px
+    }
+
+    .ahu-advantages p,
+    .ahu-text p,
+    .chiller-text p,
+    .vent-advantages p,
+    .vent-text p,
+    .vrf-text p {
+        font-size: 16px
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    [class*=col-] {
+        width: 100%
+    }
+}
+
+@media only screen and (max-width:767px) {
+    [class*=col-] {
+        width: 100%
+    }
+
+    .productMain {
+        margin-top: 130px
+    }
+
+    .ahu-caption,
+    .chiller-caption,
+    .vent-caption,
+    .vrf-caption {
+        top: 40%
+    }
+
+    .ac-title h3,
+    .wc-title h3 {
+        font-size: 24px
+    }
+
+    .ac-advantages p,
+    .wc-advantages p {
+        font-size: 14px
+    }
+}
+
+@media (max-width:575px) {
+    [class*=col-] {
+        width: 100%
+    }
+
+    .productMain {
+        margin-top: 140px
+    }
+
+    .product-text {
+        font-size: 15px;
+        letter-spacing: 0
+    }
+
+    .pName p {
+        font-size: 13px;
+        letter-spacing: 0
+    }
+
+    .ahu-bg,
+    .chiller-bg,
+    .vent-bg,
+    .vrf-bg {
+        height: 400px
+    }
+
+    .ahu-caption,
+    .chiller-caption,
+    .vent-caption,
+    .vrf-caption {
+        top: 35%
+    }
+}
