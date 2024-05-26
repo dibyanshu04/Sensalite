@@ -1,1 +1,452 @@
-.contactMain{width:100%;height:auto}.contact-us-title{background:url(../pictures/bg/contactusbg.jpg) no-repeat center;background-size:cover;background-color:#fff;width:100%;height:500px}.contact-connect{width:100%;top:40%}.contact-connect h1{font-family:Raleway;font-size:45px;color:#fff;letter-spacing:2px}.contact-connect .cont-query-cap{font-family:Raleway;font-size:45px;color:#56c6ff}ul.breadcrumb{list-style:none;color:#56c6ff;background-color:transparent}ul.breadcrumb li{display:inline;font-size:16px}ul.breadcrumb li+li:before{color:#fff;content:"|\00a0"}ul.breadcrumb li a{color:#fff;text-decoration:none}ul.breadcrumb li a:hover{color:#56c6ff;text-decoration:underline}.three-contact-section{width:100%;height:auto}.fa-c2{background-color:#56c6ff;font-size:25px;color:#fff;border-radius:50%;padding:25px}.fa-c2:hover{background-color:#fff;color:#56c6ff;-webkit-transition:.5s ease;-moz-transition:.5s ease;-ms-transition:.5s ease;-o-transition:.5s ease;transition:.5s ease;-webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);-ms-transform:rotate(360deg);-o-transform:rotate(360deg);transform:rotate(360deg)}.lets-connect h6{font-family:Poppins;color:#000}.lets-connect a,.lets-connect p{font-family:Roboto;font-size:15px;color:#000}.call-us-btn,.email-us-btn,.reach-us-btn{background-color:#fff;border:1px solid #ccc;border-radius:25px 25px}.call-us-btn:hover,.email-us-btn:hover,.reach-us-btn:hover{background-color:#56c6ff;color:#fff;border:1px solid transparent}.call-us-btn:focus,.email-us-btn:focus,.reach-us-btn:focus{box-shadow:none}.contact-us-get-in-touch{width:100%;height:auto;background-color:#fff}.get-in-touch-top{width:100%;height:auto;background-color:#fdfdfd}.get-in-touch-form h2{font-family:Poppins;color:#000;letter-spacing:1px}.get-in-touch-form p{font-family:Poppins;color:#999;font-size:14px}.cont-form{font-family:Raleway;background-color:#fdfdfd;border-bottom:1px solid #ccc;border-top:none;border-left:none;border-right:none;border-radius:0;font-size:15px}.btnSubmit:focus,.cont-form:focus{box-shadow:none;background-color:#000;color:#fff}.cont-form::placeholder{font-family:Raleway;font-weight:300;color:#999;letter-spacing:.8px}.msgTxt{font-family:Raleway;background-color:#fafafa;border-bottom:1px solid #ccc;border-top:none;border-left:none;border-right:none;border-radius:0;font-size:15px}.get-in-touch-btn{background-color:#56c6ff;color:#fff;border-radius:20px 20px;font-family:Poppins;font-size:15px;letter-spacing:1px}.get-in-touch-btn:hover{background-color:#000;color:#fff}.get-in-touch-btn:focus{outline:0!important}.comfort-zone{background:url(../pictures/bg/contact-form-right.jpg) no-repeat center;background-size:cover;background-color:#fff;width:100%;height:auto}.comfort-text{margin:220px 0;background-color:rgba(255,255,255,.9)}.comfort-text h3{font-family:Poppins;color:#444;letter-spacing:.5px}.comfort-text p{font-family:Roboto;font-size:15px;color:#888;letter-spacing:.2px}.text-end,.text-hvac{font-family:Poppins;font-size:15px;color:#000}.comfort-text-end{color:red}.comfort-text a{font-family:Poppins;font-size:13px;color:#fff}.fa-comfort{color:#fff;transition:.8s ease;-webkit-transition:.8s ease;-moz-transition:.8s ease;-ms-transition:.8s ease;-o-transition:.8s ease;-webkit-transform:rotate(0);-moz-transform:rotate(0);-ms-transform:rotate(0);-o-transform:rotate(0);transform:rotate(0)}.comfort-text a:hover .fa-comfort{margin-left:10px;transition:.8s ease;-webkit-transition:.8s ease;-moz-transition:.8s ease;-ms-transition:.8s ease;-o-transition:.8s ease;-webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);-ms-transform:rotate(360deg);-o-transform:rotate(360deg);transform:rotate(360deg)}.comfort-btn{background-color:#222;color:#fff;border-radius:20px 20px}.comfort-btn:hover{background-color:#56c6ff;color:#fff}.comfort-btn:focus{outline:0!important;box-shadow:none!important}.cont-brands-title h4{font-family:Poppins;color:#888;letter-spacing:.5px}.cont-brands{background-color:#fff}.cont-brands-title-end{color:red}.branches-section{width:100%;height:auto;color:#fff;background-image:-webkit-linear-gradient(to bottom,#0f1936,#141f3f,#192549,#1e2c52,#23325c,#23325b,#22315b,#22315a,#1c2a4f,#172344,#111c39,#0c152f);background-image:-moz-linear-gradient(to bottom,#0f1936,#141f3f,#192549,#1e2c52,#23325c,#23325b,#22315b,#22315a,#1c2a4f,#172344,#111c39,#0c152f);background-image:-ms-linear-gradient(to bottom,#0f1936,#141f3f,#192549,#1e2c52,#23325c,#23325b,#22315b,#22315a,#1c2a4f,#172344,#111c39,#0c152f);background-image:-o-linear-gradient(to bottom,#0f1936,#141f3f,#192549,#1e2c52,#23325c,#23325b,#22315b,#22315a,#1c2a4f,#172344,#111c39,#0c152f);background-image:linear-gradient(to bottom,#0f1936,#141f3f,#192549,#1e2c52,#23325c,#23325b,#22315b,#22315a,#1c2a4f,#172344,#111c39,#0c152f)}.cont-branch-title p{font-family:Raleway;font-size:35px;color:#f7f9fb;letter-spacing:.8px}.cont-branch-title-end{color:#56c6ff}.cont-branch1,.cont-branch2,.cont-branch3,.cont-branch4{background-color:#f7f9fb;color:#000;width:100%;height:100%;border-radius:20px}.cont-branch-name h4{font-family:Raleway;color:#fcfcfc;background-color:#23325b}.cont-branch-name p{font-size:85px;color:#ccc;opacity:.3;margin-top:-32px;text-shadow:1px 3px 3px #000}.cont-branch-text h6{font-family:Raleway;text-transform:uppercase;color:#777}.cont-branch-text a,.cont-branch-text p{font-family:Roboto;font-size:15px;color:#777;font-weight:400}.mapouter{position:relative;text-align:center;width:100%;height:400px;padding:0;margin:0}.gmap_canvas{width:100%;height:400px;padding:0;margin:0;overflow:hidden;background:0 0!important}.mapouter iframe{left:0;top:0;padding:0;margin:0;width:100%;height:100%;position:absolute}@media (min-width:992px) and (max-width:1199px){.comfort-text{margin:140px 0}}@media (max-width:991px){.contactMain{margin-top:100px}.contact-us-title{background-size:contain;height:400px}.contact-connect .cont-query-cap,.contact-connect h1{font-size:35px;letter-spacing:1px}.comfort-text{margin:80px 0}.comfort-text h3,.cont-branch-title p{font-size:25px}.gmap_canvas,.mapouter{width:100%;height:400px}}@media (max-width:767px){.contact-us-title{height:300px;background-size:cover}.get-in-touch-form h2{font-size:25px}.get-in-touch-form p{font-size:13px}}@media (max-width:575px){.contact-connect .cont-query-cap,.contact-connect h1{font-size:25px}}
+:root {
+    --blue: #1e3ca4;
+    --red: #A12012;
+}
+
+.contactMain {
+    width: 100%;
+    height: auto
+}
+
+.contact-us-title {
+    background: url(../pictures/bg/contactusbg.jpg) no-repeat center;
+    background-size: cover;
+    background-color: #fff;
+    width: 100%;
+    height: 500px
+}
+
+.contact-connect {
+    width: 100%;
+    top: 40%
+}
+
+.contact-connect h1 {
+    font-family: Raleway;
+    font-size: 45px;
+    color: #fff;
+    letter-spacing: 2px
+}
+
+.contact-connect .cont-query-cap {
+    font-family: Raleway;
+    font-size: 45px;
+    color: var(--blue);
+}
+
+ul.breadcrumb {
+    list-style: none;
+    color:var(--blue);
+    background-color: transparent
+}
+
+ul.breadcrumb li {
+    display: inline;
+    font-size: 16px
+}
+
+ul.breadcrumb li+li:before {
+    color: #fff;
+    content: "|\00a0"
+}
+
+ul.breadcrumb li a {
+    color: #fff;
+    text-decoration: none
+}
+
+ul.breadcrumb li a:hover {
+    color: var(--blue);
+    text-decoration: underline
+}
+
+.three-contact-section {
+    width: 100%;
+    height: auto
+}
+
+.fa-c2 {
+    background-color: var(--blue);
+    font-size: 25px;
+    color: #fff;
+    border-radius: 50%;
+    padding: 25px
+}
+
+.fa-c2:hover {
+    background-color: #fff;
+    color: var(--blue);
+    -webkit-transition: .5s ease;
+    -moz-transition: .5s ease;
+    -ms-transition: .5s ease;
+    -o-transition: .5s ease;
+    transition: .5s ease;
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg)
+}
+
+.lets-connect h6 {
+    font-family: Poppins;
+    color: #000
+}
+
+.lets-connect a,
+.lets-connect p {
+    font-family: Roboto;
+    font-size: 15px;
+    color: #000
+}
+
+.call-us-btn,
+.email-us-btn,
+.reach-us-btn {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 25px 25px
+}
+
+.call-us-btn:hover,
+.email-us-btn:hover,
+.reach-us-btn:hover {
+    background-color: var(--blue);
+    color: #fff;
+    border: 1px solid transparent
+}
+
+.call-us-btn:focus,
+.email-us-btn:focus,
+.reach-us-btn:focus {
+    box-shadow: none
+}
+
+.contact-us-get-in-touch {
+    width: 100%;
+    height: auto;
+    background-color: #fff
+}
+
+.get-in-touch-top {
+    width: 100%;
+    height: auto;
+    background-color: #fdfdfd
+}
+
+.get-in-touch-form h2 {
+    font-family: Poppins;
+    color: #000;
+    letter-spacing: 1px
+}
+
+.get-in-touch-form p {
+    font-family: Poppins;
+    color: #999;
+    font-size: 14px
+}
+
+.cont-form {
+    font-family: Raleway;
+    background-color: #fdfdfd;
+    border-bottom: 1px solid #ccc;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0;
+    font-size: 15px
+}
+
+.btnSubmit:focus,
+.cont-form:focus {
+    box-shadow: none;
+    background-color: #000;
+    color: #fff
+}
+
+.cont-form::placeholder {
+    font-family: Raleway;
+    font-weight: 300;
+    color: #999;
+    letter-spacing: .8px
+}
+
+.msgTxt {
+    font-family: Raleway;
+    background-color: #fafafa;
+    border-bottom: 1px solid #ccc;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0;
+    font-size: 15px
+}
+
+.get-in-touch-btn {
+    background-color: var(--blue);
+    color: #fff;
+    border-radius: 20px 20px;
+    font-family: Poppins;
+    font-size: 15px;
+    letter-spacing: 1px
+}
+
+.get-in-touch-btn:hover {
+    background-color: #000;
+    color: #fff
+}
+
+.get-in-touch-btn:focus {
+    outline: 0 !important
+}
+
+.comfort-zone {
+    background: url(../pictures/bg/contact-form-right.jpg) no-repeat center;
+    background-size: cover;
+    background-color: #fff;
+    width: 100%;
+    height: auto
+}
+
+.comfort-text {
+    margin: 220px 0;
+    background-color: rgba(255, 255, 255, .9)
+}
+
+.comfort-text h3 {
+    font-family: Poppins;
+    color: #444;
+    letter-spacing: .5px
+}
+
+.comfort-text p {
+    font-family: Roboto;
+    font-size: 15px;
+    color: #888;
+    letter-spacing: .2px
+}
+
+.text-end,
+.text-hvac {
+    font-family: Poppins;
+    font-size: 15px;
+    color: #000
+}
+
+.comfort-text-end {
+    color: red
+}
+
+.comfort-text a {
+    font-family: Poppins;
+    font-size: 13px;
+    color: #fff
+}
+
+.fa-comfort {
+    color: #fff;
+    transition: .8s ease;
+    -webkit-transition: .8s ease;
+    -moz-transition: .8s ease;
+    -ms-transition: .8s ease;
+    -o-transition: .8s ease;
+    -webkit-transform: rotate(0);
+    -moz-transform: rotate(0);
+    -ms-transform: rotate(0);
+    -o-transform: rotate(0);
+    transform: rotate(0)
+}
+
+.comfort-text a:hover .fa-comfort {
+    margin-left: 10px;
+    transition: .8s ease;
+    -webkit-transition: .8s ease;
+    -moz-transition: .8s ease;
+    -ms-transition: .8s ease;
+    -o-transition: .8s ease;
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg)
+}
+
+.comfort-btn {
+    background-color: #222;
+    color: #fff;
+    border-radius: 20px 20px
+}
+
+.comfort-btn:hover {
+    background-color: var(--blue);
+    color: #fff
+}
+
+.comfort-btn:focus {
+    outline: 0 !important;
+    box-shadow: none !important
+}
+
+.cont-brands-title h4 {
+    font-family: Poppins;
+    color: #888;
+    letter-spacing: .5px
+}
+
+.cont-brands {
+    background-color: #fff
+}
+
+.cont-brands-title-end {
+    color: red
+}
+
+.branches-section {
+    width: 100%;
+    height: auto;
+    color: #fff;
+    background-image: -webkit-linear-gradient(to bottom, #0f1936, #141f3f, #192549, #1e2c52, #23325c, #23325b, #22315b, #22315a, #1c2a4f, #172344, #111c39, #0c152f);
+    background-image: -moz-linear-gradient(to bottom, #0f1936, #141f3f, #192549, #1e2c52, #23325c, #23325b, #22315b, #22315a, #1c2a4f, #172344, #111c39, #0c152f);
+    background-image: -ms-linear-gradient(to bottom, #0f1936, #141f3f, #192549, #1e2c52, #23325c, #23325b, #22315b, #22315a, #1c2a4f, #172344, #111c39, #0c152f);
+    background-image: -o-linear-gradient(to bottom, #0f1936, #141f3f, #192549, #1e2c52, #23325c, #23325b, #22315b, #22315a, #1c2a4f, #172344, #111c39, #0c152f);
+    background-image: linear-gradient(to bottom, #0f1936, #141f3f, #192549, #1e2c52, #23325c, #23325b, #22315b, #22315a, #1c2a4f, #172344, #111c39, #0c152f)
+}
+
+.cont-branch-title p {
+    font-family: Raleway;
+    font-size: 35px;
+    color: #f7f9fb;
+    letter-spacing: .8px
+}
+
+.cont-branch-title-end {
+    color: var(--blue);
+}
+
+.cont-branch1,
+.cont-branch2,
+.cont-branch3,
+.cont-branch4 {
+    background-color: #f7f9fb;
+    color: #000;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px
+}
+
+.cont-branch-name h4 {
+    font-family: Raleway;
+    color: #fcfcfc;
+    background-color: #23325b
+}
+
+.cont-branch-name p {
+    font-size: 85px;
+    color: #ccc;
+    opacity: .3;
+    margin-top: -32px;
+    text-shadow: 1px 3px 3px #000
+}
+
+.cont-branch-text h6 {
+    font-family: Raleway;
+    text-transform: uppercase;
+    color: #777
+}
+
+.cont-branch-text a,
+.cont-branch-text p {
+    font-family: Roboto;
+    font-size: 15px;
+    color: #777;
+    font-weight: 400
+}
+
+.mapouter {
+    position: relative;
+    text-align: center;
+    width: 100%;
+    height: 400px;
+    padding: 0;
+    margin: 0
+}
+
+.gmap_canvas {
+    width: 100%;
+    height: 400px;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background: 0 0 !important
+}
+
+.mapouter iframe {
+    left: 0;
+    top: 0;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+    .comfort-text {
+        margin: 140px 0
+    }
+}
+
+@media (max-width:991px) {
+    .contactMain {
+        margin-top: 100px
+    }
+
+    .contact-us-title {
+        background-size: contain;
+        height: 400px
+    }
+
+    .contact-connect .cont-query-cap,
+    .contact-connect h1 {
+        font-size: 35px;
+        letter-spacing: 1px
+    }
+
+    .comfort-text {
+        margin: 80px 0
+    }
+
+    .comfort-text h3,
+    .cont-branch-title p {
+        font-size: 25px
+    }
+
+    .gmap_canvas,
+    .mapouter {
+        width: 100%;
+        height: 400px
+    }
+}
+
+@media (max-width:767px) {
+    .contact-us-title {
+        height: 300px;
+        background-size: cover
+    }
+
+    .get-in-touch-form h2 {
+        font-size: 25px
+    }
+
+    .get-in-touch-form p {
+        font-size: 13px
+    }
+}
+
+@media (max-width:575px) {
+
+    .contact-connect .cont-query-cap,
+    .contact-connect h1 {
+        font-size: 25px
+    }
+}

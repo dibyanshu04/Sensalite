@@ -3155,3 +3155,63 @@ Description: A default stylesheet for Sensalite : Developed By ANVESH NANDAGIRI.
  ====== TABLE OF CONTENT  ======== 
 PRELOADER CSS | TOP HEADER CSS | NAVBAR CSS | PROGRESS BAR CSS | SLIDESHOW SEARCH CSS | HOME ICONS CSS | WELCOME SECTION CSS | PRODUCTS LISTING CSS | WHY CHOOSE US & WHAT WE OFFER  CSS | RECENT PROJECTS CSS | NUMBER COUNTER CSS |SEND US QUERY CSS
 BRANDS CSS | BRANCHES CSS | TESTIMONIAL CSS | FOOTER CSS | BACK TO TOP CSS | SERVICES PAGES CSS | PRODUCTS PAGES CSS | PROJECTS PAGES CSS   */
+
+.cont-branch-title p {
+  font-family: Raleway;
+  font-size: 35px;
+  color: #f7f9fb;
+  letter-spacing: .8px
+}
+
+.cont-branch-title-end {
+  color: var(--blue);
+}
+
+.cont-branch1,
+.cont-branch2,
+.cont-branch3,
+.cont-branch4 {
+  background-color: #f7f9fb;
+  color: #000;
+  width: 100%;
+  height: 100%;
+  border-radius: 20px
+}
+
+.cont-branch-name h4 {
+  font-family: Raleway;
+  color: #fcfcfc;
+  background-color: #23325b
+}
+
+.cont-branch-name p {
+  font-size: 85px;
+  color: #ccc;
+  opacity: .3;
+  margin-top: -32px;
+  text-shadow: 1px 3px 3px #000
+}
+
+.cont-branch-text h6 {
+  font-family: Raleway;
+  text-transform: uppercase;
+  color: #777
+}
+
+.cont-branch-text a,
+.cont-branch-text p {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #777;
+  font-weight: 400
+}
+.branches-section {
+  width: 100%;
+  height: auto;
+  color: #fff;
+  background-image: -webkit-linear-gradient(to bottom, #0f1936, #141f3f, #192549, #1e2c52, #23325c, #23325b, #22315b, #22315a, #1c2a4f, #172344, #111c39, #0c152f);
+  background-image: -moz-linear-gradient(to bottom, #0f1936, #141f3f, #192549, #1e2c52, #23325c, #23325b, #22315b, #22315a, #1c2a4f, #172344, #111c39, #0c152f);
+  background-image: -ms-linear-gradient(to bottom, #0f1936, #141f3f, #192549, #1e2c52, #23325c, #23325b, #22315b, #22315a, #1c2a4f, #172344, #111c39, #0c152f);
+  background-image: -o-linear-gradient(to bottom, #0f1936, #141f3f, #192549, #1e2c52, #23325c, #23325b, #22315b, #22315a, #1c2a4f, #172344, #111c39, #0c152f);
+  background-image: linear-gradient(to bottom, #0f1936, #141f3f, #192549, #1e2c52, #23325c, #23325b, #22315b, #22315a, #1c2a4f, #172344, #111c39, #0c152f)
+}
