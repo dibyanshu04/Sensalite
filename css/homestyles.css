@@ -1796,6 +1796,13 @@ ul.projects-crumb li a:hover {
   font-family: Raleway;
   color: #f7f9fb;
 }
+.not-found-title {
+  font-size: 6rem;
+    color: var(--red);
+}
+not-found-subtitle{
+  font-size: 2rem;
+}
 .clients-end {
   color: #56c6ff;
 }
